@@ -93,14 +93,4 @@ To build and run the application using Docker, use the following commands:
     docker run -p 5000:5000 whois-app
     ```
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or issues, please contact [your-email@example.com](mailto:your-email@example.com).
